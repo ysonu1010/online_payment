@@ -13,3 +13,8 @@ You can clone the repos to have to try it out.
 from the root of the directory structure.
 * Run the app
 <code>node app</code>
+
+
+Blog implementing the payment
+============================
+https://medium.com/bithubph/payment-integration-with-node-js-express-request-and-paystack-api-8cebf51c1f52
